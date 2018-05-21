@@ -19,9 +19,9 @@
   }
 
   fnt <- extrafont::fonttable()
-  if (!any(grepl("Arial[ ]Narrow|Roboto[ ]Condensed", fnt$FamilyName))) {
-    packageStartupMessage("NOTE: Either Arial Narrow or Roboto Condensed fonts are *required* to use these themes.")
-    packageStartupMessage("      Please use hrbrthemes::import_fira_sans() to install them.")
+  if (!any(grepl("Fira Sans", fnt$FamilyName))) {
+    packageStartupMessage("NOTE: Fira Sans Mono and Condensed fonts are *required* to use these themes.")
+    packageStartupMessage("      Please use firasans::import_fira_sans() to install them.")
   } # nocov end
 
 }
