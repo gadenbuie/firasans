@@ -1,11 +1,13 @@
 
 # firasans
 
-Fira Sans Condensed + Fira Mono Font Theme Based on hrbrthemes
+Fira Sans Condensed + Fira Mono Font Theme Based on
+[hrbrthemes](https://hrbrmstr.github.io/hrbrthemes/)
 
 ## Description
 
-Fira Sans Condensed + Fira Mono Font Theme Based on hrbrthemes
+Fira Sans Condensed + Fira Mono Font Theme Based on
+[hrbrthemes](https://hrbrmstr.github.io/hrbrthemes/)
 
 ## What’s Inside The Tin
 
